@@ -21,3 +21,4 @@ bin/
 *.ipr
 # Ignore Gradle build output directory
 build
+/app/out/
