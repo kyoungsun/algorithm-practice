@@ -1,4 +1,4 @@
-package com.ksnote.leetcode.q937;
+package com.ksnote.leetcode;
 
 import java.util.ArrayList;
 import java.util.List;
