@@ -36,8 +36,6 @@ public class Question937 {
         return sorted.toArray(new String[sorted.size()]);
     }
 
-
-
     class Log {
         private static final String DELIMITER = " ";
         String[] values;
